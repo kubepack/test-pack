@@ -5,7 +5,7 @@ $ pack pull # pull dependencies from manifest.yaml file
 `
 
 `
-$ pack edit -s ./_vendor/github.com/ 
+$ pack edit -s ./_vendor/github.com/a8uhnf/test-yml1/nginx-deployment.yaml # edit file from _vendor/ folder
 `
 
 
