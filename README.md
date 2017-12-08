@@ -1,4 +1,4 @@
-# test-pack
+# test-pack (Modify yaml from _vendor folder)
 
 `
 $ pack pull # pull dependencies from manifest.yaml file
